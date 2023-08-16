@@ -48,6 +48,7 @@
 # Edu
 ### School
 [강남구청 인터넷수능방송](https://edu.ingang.go.kr/NGLMS/Middle/UserMain.do)   
+[시간표](http://comci.net:4082/st)   
 
 ### Programming
 [Baekjoon OJ](https://www.acmicpc.net)   
